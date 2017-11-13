@@ -18,6 +18,10 @@ Secondly, these two competitions were hosted on Kaggle by General Assembly (one 
 - Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
 - The use of Kaggle as a place to practice data science
 
+#### You can find my work for the regression models here: https://github.com/HallieCrosby/Ames-Housing-Data-and-Kaggle-Challenges/blob/portfolio/DSI-EAST-1%20Project%203%20Regression%20Challenge.ipynb
+
+#### You can find my work for the classification models here: https://github.com/HallieCrosby/Ames-Housing-Data-and-Kaggle-Challenges/blob/portfolio/DSI-EAST-1%20Project%203%20Classification%20Challenge.ipynb
+
 ## The Modeling Process
 
 1. The train and test datasets for both challenges are the **same**, with the exception of the target that I was trying to predict.
